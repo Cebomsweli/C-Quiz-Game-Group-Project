@@ -1,0 +1,12 @@
+C:\Users\Cebo\Downloads\C++ Work\QuizProject\QuizProject\Debug\QuizProject.vcxproj.AssemblyReference.cache
+C:\Users\Cebo\Downloads\C++ Work\QuizProject\QuizProject\Debug\QuizProject.Game.resources
+C:\Users\Cebo\Downloads\C++ Work\QuizProject\QuizProject\Debug\QuizProject.Level.resources
+C:\Users\Cebo\Downloads\C++ Work\QuizProject\QuizProject\Debug\QuizProject.Review.resources
+C:\Users\Cebo\Downloads\C++ Work\QuizProject\QuizProject\Debug\QuizProject.Welcome.resources
+C:\Users\Cebo\Downloads\C++ Work\QuizProject\QuizProject\Debug\QuizProject.vcxproj.GenerateResource.cache
+E:\QuizProject\QuizProject\QuizProject\Debug\QuizProject.vcxproj.AssemblyReference.cache
+E:\QuizProject\QuizProject\QuizProject\Debug\QuizProject.Game.resources
+E:\QuizProject\QuizProject\QuizProject\Debug\QuizProject.Level.resources
+E:\QuizProject\QuizProject\QuizProject\Debug\QuizProject.Review.resources
+E:\QuizProject\QuizProject\QuizProject\Debug\QuizProject.Welcome.resources
+E:\QuizProject\QuizProject\QuizProject\Debug\QuizProject.vcxproj.GenerateResource.cache
